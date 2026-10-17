@@ -1,0 +1,6 @@
+{
+    "offline_only": true,
+    "pre_start_check": true,
+    "auto_stop_on_internet": true,
+    "check_interval": 1
+}

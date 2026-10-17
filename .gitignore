@@ -1,0 +1,7 @@
+.env
+*.pyc
+__pycache__/
+memory.db
+memory.index
+faiss_mapping.pkl
+test_files/
